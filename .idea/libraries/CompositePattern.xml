@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CompositePattern">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CompositePattern/NEW/CompositePattern.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
